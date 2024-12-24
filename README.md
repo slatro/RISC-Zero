@@ -113,7 +113,7 @@ screen -r ceremony
 ```
 > Screen içinden çıkmak için CTRL A D ile çıkabilirsiniz.
 
-> Ceremony sırasında durmuş ise, yada siz yanlışlıkla durdurmuşsanız. `npx phase2cli contribute` komutunu tekrar çalıştırabilirsiniz.
+> Ceremony sırasında durmuş ise, yada siz yanlışlıkla durdurmuşsanız. `npx phase2cli contribute` komutunu tekrar çalıştırabilirsiniz...
 
 
 
